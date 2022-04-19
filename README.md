@@ -1,4 +1,12 @@
-Hi 👋 My name is Andrew =======================  Web Developer -------------  * 🌍  I'm based in St Petersburg * ✉️  You can contact me at [andrey@fjedi.com](mailto:andrey@fjedi.com) * 🚀  I'm currently working on [Varwin](http://varwin.com) * 🧠  I'm learning VueJS
+Hi 👋 My name is Andrew 
+=======================  
+
+Web Developer 
+-------------  
+* 🌍  I'm based in St Petersburg 
+* ✉️  You can contact me at [andrey@fjedi.com](mailto:andrey@fjedi.com) 
+* 🚀  I'm currently working on [Varwin](http://varwin.com) 
+* 🧠  I'm learning VueJS
 
 ### Skills
 
