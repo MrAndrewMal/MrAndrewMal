@@ -5,8 +5,8 @@ Full Stack Web Engineer
 -------------  
 * 🌍  I'm based in St Petersburg 
 * ✉️  You can contact me at [andrey@fjedi.com](mailto:andrey@fjedi.com) 
-* 🚀  I'm currently working on [Varwin](http://varwin.com) 
-* 🧠  I'm learning VueJS
+* 🚀  I'm currently working on [Kefir](https://kefirgames.com/) 
+* 🧠  I'm learning Go
 
 ### Skills
 
