@@ -3,7 +3,7 @@ Hi 👋 My name is Andrew
 
 Full Stack Web Engineer
 -------------  
-* 🌍  I'm based in St Petersburg 
+* 🌍  I'm based in Florianopolis
 * ✉️  You can contact me at [andrey@fjedi.com](mailto:andrey@fjedi.com) 
 * 🚀  I'm currently working on [Kefir](https://kefirgames.com/) 
 * 🧠  I'm learning Go
